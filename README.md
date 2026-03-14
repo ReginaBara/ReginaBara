@@ -7,6 +7,7 @@
 - 💬 Ask me about HTML, CSS, and basic UI/UX design
 - 📫 How to reach me: reginaabara31@gmail.com
 - 😄 Pronouns: She/Her
+  
 ## 🚀 Tech Stack & Skills
 
 | Bidang | Teknologi |
@@ -14,6 +15,9 @@
 | **Languages** | JavaScript |
 | **Frontend** | React |
 | **Backend** | Nodejs |
+
+## 🎨 UI / UX Design
+[Figma](https://www.figma.com/design/NdoXCn2KY7IMPpifvJVmDe/Explore-Manokwari?node-id=0-1&t=wQBgIs9hm75EjKcp-1)
 
 ## 🙈 Fun Fact
 - I have three cats who suddenly develop super hearing when food appears 🐱
