@@ -26,3 +26,5 @@
 
 ## 🤝 Let's Connect!
 [Instagram](https://www.instagram.com/_reginapsngli/?utm_source=ig_web_button_share_sheet)
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjdrd3pvNWQ1NGcxN3V0d2V2c296c2QwODJvZzR5aTd1aG8yeXZ2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dxn6fRlTIShoeBr69N/giphy.gif" width="900">
