@@ -11,9 +11,9 @@
 
 | Bidang | Teknologi |
 | :--- | :--- |
-| **Languages** | [JavaScript] |
-| **Frontend** | [React] |
-| **Backend** | [Nodejs] |
+| **Languages** | JavaScript |
+| **Frontend** | React |
+| **Backend** | Nodejs |
 
 ## 🙈 Fun Fact
 - I have three cats who suddenly develop super hearing when food appears 🐱
@@ -21,4 +21,4 @@
 - Powered by 2–3 cups of coffee daily ☕
 
 ## 🤝 Let's Connect!
-[Instagram](https://www.instagram.com/reginapsngli/?utm_source=ig_web_button_share_sheet)
+[Instagram]([https://www.instagram.com/reginapsngli/?utm_source=ig_web_button_share_sheet](https://www.instagram.com/_reginapsngli/?utm_source=ig_web_button_share_sheet))
